@@ -1,4 +1,4 @@
 def hi
-number
+number 
 (#{number}  => soy_sauce
 
